@@ -1,0 +1,2 @@
+pip install virtualenv
+virtualenv python-experiment

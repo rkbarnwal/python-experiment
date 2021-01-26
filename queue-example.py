@@ -1,4 +1,4 @@
-from queue import Queue
+from myqueue import Queue
 
 queue1 = Queue()
 queue1.push("Ranjeet")
